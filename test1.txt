@@ -1,0 +1,33 @@
+id	name	price	Is_discontinued	manufacturer_name	type
+1	Augmentin 625 Duo Tablet	223.42	FALSE	Glaxo SmithKline Pharmaceuticals Ltd	allopathy
+2	Azithral 500 Tablet	132.36	FALSE	Alembic Pharmaceuticals Ltd	allopathy
+3	Ascoril LS Syrup	118	FALSE	Glenmark Pharmaceuticals Ltd	allopathy
+4	Allegra 120mg Tablet	218.81	FALSE	Sanofi India  Ltd	allopathy
+5	Avil 25 Tablet	10.96	FALSE	Sanofi India  Ltd	allopathy
+6	Allegra-M Tablet	241.48	FALSE	Sanofi India  Ltd	allopathy
+7	Amoxyclav 625 Tablet	223.27	FALSE	Abbott	allopathy
+8	Azee 500 Tablet	132.38	FALSE	Cipla Ltd	allopathy
+9	Atarax 25mg Tablet	85.5	FALSE	Dr Reddy's Laboratories Ltd	allopathy
+10	Ascoril D Plus Syrup Sugar Free	129	FALSE	Glenmark Pharmaceuticals Ltd	allopathy
+11	Aciloc 150 Tablet	40.94	FALSE	Cadila Pharmaceuticals Ltd	allopathy
+12	Alex Syrup	129	FALSE	Glenmark Pharmaceuticals Ltd	allopathy
+13	Anovate Cream	134.2	FALSE	USV Ltd	allopathy
+14	Augmentin Duo Oral Suspension	67.2	FALSE	Glaxo SmithKline Pharmaceuticals Ltd	allopathy
+15	Ambrodil-S Syrup	30.2	FALSE	Aristo Pharmaceuticals Pvt Ltd	allopathy
+16	Arkamin Tablet	72.65	FALSE	Torrent Pharmaceuticals Ltd	allopathy
+17	Avomine Tablet	55.98	FALSE	Abbott	allopath
+18	Asthakind-DX Syrup Sugar Free	70.4	FALSE	Mankind Pharma Ltd	allopathy
+19	Allegra 180mg Tablet	251.2	FALSE	Sanofi India  Ltd	allopathy
+20	Albendazole 400mg Tablet	9.58	FALSE	Cadila Pharmaceuticals Ltd	allopathy
+21	Asthalin Syrup	19.04	FALSE	Cipla Ltd	allopathy
+22	Alprax 0.25 Tablet	29	FALSE	Torrent Pharmaceuticals Ltd	allopathy
+23	Altraday Capsule SR	128	FALSE	Sun Pharmaceutical Industries Ltd	allopathy
+24	Ativan 2mg Tablet	91.87	FALSE	Pfizer Ltd	allopathy
+25	Ascoril LS Junior Syrup	96	FALSE	Glenmark Pharmaceuticals Ltd	allopathy
+26	Asthalin 100mcg Inhaler	157.85	FALSE	Cipla Ltd	allopathy
+27	Almox 500 Capsule	80.26	FALSE	Alkem Laboratories Ltd	allopathy
+28	Atarax 10mg Tablet	47.91	FALSE	Dr Reddy's Laboratories Ltd	allopathy
+29	Aciloc RD 20 Tablet	77	FALSE	Cadila Pharmaceuticals Ltd	allopathy
+30	Aldactone Tablet	35.35	FALSE	RPG Life Sciences Ltd	allopathy
+31	Allegra Suspension Raspberry & Vanilla	188.78	FALSE	Sanofi India  Ltd	allopathy
+32	Atarax Syrup	110.25	TRUE	Dr Reddy's Laboratories Ltd	allopathy
